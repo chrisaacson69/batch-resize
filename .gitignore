@@ -205,3 +205,24 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ======================
+# Project-specific
+# ======================
+
+# Visual Studio IDE
+.vs/
+*.suo
+*.user
+*.pyproj
+*.sln
+
+# Input/Output data directories
+In/
+Out/
+
+# Additional virtual environments
+env1/
+
+# Claude Code
+.claude/
